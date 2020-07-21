@@ -209,10 +209,7 @@ def check_tik_uptime(resources):
     else:
         minutes = 0
 
-    if minutes >= 10:
-        return False
-
-    return True
+    return minutes < 10
 
 
 def connect_to_tik():
