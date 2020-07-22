@@ -1,4 +1,3 @@
 librouteros==3.0.2
-suricata==5.0.0
 ujson==3.0.0
 urllib3==1.19.1
