@@ -1,5 +1,0 @@
-language: python
-pip:
-- librouteros
--   ujson
-- pyinotify
